@@ -1,4 +1,4 @@
-﻿HTML5
+HTML5
 
 1) 왜 출현했는가?
 HTML은 1991년 처음 나온 이래 1999년에 HTML 4.01 까지 업데이트 되어온 HyperText Markup Language 다. 하지만 그 이후 웹은 급속도로 발전했으며 HTML 4.01 의 한계를 벗어나기 위해 CSS, RSS등이 생겨났고, 각 브라우저들은 개별적인 확장HTML을 만들어내기 시작했다. 이렇게 되면서 특정 브라우저에서만 가능한 프로그램들이 생겨나기 시작했고, 사용자가 필요한 기능을 위해 여러 브라우저를 설치해야만 하는 상황이 나타났다. 그래서 웹브라우저 업체들은 XML과 HTML을 결합한 XHTML을 업그레이드 시킨 XHTML 2.0 을 표준안으로 만든다. 하지만 XHTML2.0은 형식상 완벽하나, 사용하기 어려웠고, WHATWG(Web Hypertext Application Technology Working Group)의 표준안을 가진 HTML5를 개발하게 된다.
