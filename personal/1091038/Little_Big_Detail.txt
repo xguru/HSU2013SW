@@ -1,0 +1,38 @@
+http://littlebigdetails.com/post/46846938719/twitter-characters-exceeding-the-140-limit-are
+140자가 넘으면 글씨배경이 붉은 색으로 보인다. 매번 글을 쓰고 글자 수가 넘어간지도 모르고 저장 버튼을 누르면 쓸 수 있는 글자수가 넘었다면서 내용이 다 지워지곤 하는데 그것을 방지할 수 있어서 매우 좋은 지식 같다.
+
+
+http://littlebigdetails.com/post/44219107623/gmail-incompatible-versions-of-internet-explorer
+IE에서 gmail을 들아가면 호환이 안되기 때문에 그것을 찢어진 봉투 아이콘으로 보여준다. 이런 소소한 것들을 경고창이 아닌 그림으로 나타낸 것이 재미있고 신기하다.
+
+
+http://littlebigdetails.com/post/43984523894/amazon-wish-list-will-notify-you-that-someone
+교수님이 누누히 말씀하시던 아마존의 악마의 기술이다. 내가 물건을 구매하면 그와 어울리는 물건을 자동으로 추천해 준다. 잡다한 쇼핑을 좋아하는 나로서는 반가우면서도 무서운 기술이다.
+
+
+http://littlebigdetails.com/post/43804592767/pocket-ios-after-copying-a-url-opening-the
+자동 북마크 기능이다. URL을 복사 한 후 Pocket어플을 키면 자동적으로 내가 복사한 웹페이지를 목록으로 보여준다. 메뉴를 누르고 북마크 추가 누르고 이름 지정하고 확인하고. 이런 일련의 불편한 과정들을 복사 한번으로 바꾸어 주는 좋은 어플이다.
+
+
+http://littlebigdetails.com/post/42429819052/os-x-adjust-the-volume-in-1-4-increments-with
+Mac을 쓸때 shift+alt+volume버튼을 누르면 볼륨이 1/4씩 줄어든다. 0과 1의 큰 차이를 괴로워 하던 나에게 좋은 팁이 될것이다.
+
+
+http://littlebigdetails.com/post/41360748777/ios-6-when-turning-the-volume-up-with-headphones
+Apple iOS6 에서 에서 볼륨을 크게 높이면 흰색에서 노랜색으로 노란색에서 빨간색으로 색이 바뀐다. 내가 얼마나 큰 소리로 듣고 있는 지 모를 때 스스로 컨트롤 할 수 있게 경고해 주는 것 같아서 좋은 기능이라고 생각했다.
+
+
+http://littlebigdetails.com/post/41196163674/youtube-to-celebrate-1-billion-views-a-tiny
+yputube는 1억 뷰가 넘은 동영상에 대해서 조회수 옆에 움직이는 작은 그림을 넣어준다. 유용한 정보는 아니지만 youtube를 매일 같이 이용하는 나에게는 재미있는 정보이다.
+
+
+http://littlebigdetails.com/post/38792101867/siri-confirms-what-tomorrow-means-when-it-is
+Apple siri에서 제공하는 기능으로 정오와 앞뒤로 가까운 시간에 "내일"이라고 말한다면 그것이 12시 이전인지, 12시 이후인지 선택하게 할 수 있는 기능이다. 자정이 지나면 날씨를 볼 때 내일 날씨에 대해 나오면 이것이 내일 날씨인지 내일 모레 날씨인지 방송에서 말하는 내일이 오늘인지 내일인지 엄청 헷갈리기 마련이다. 이 둘을 선택하게 할 수 있는 기능은 사용자가 무엇을 필요로 하는지, 어떻게하면 사용자가 원하는 정보를 정확하게 전달 할 수 있는지 고려하는 마음에서 나온 것이 확실하다.
+
+
+http://littlebigdetails.com/post/37789302963/github-when-you-click-to-focus-the-search-bar
+github에서 검색창에 마우스를 가져다대면 뒤에 있는 메뉴들이 사라지고 검색창이 길어지는 기능이다. 버튼을 싫어하고 뭐든지 길쭉길쭉해서 한눈에 보이는것을 좋아하는 나로서는 반가운 기능이다. 긴 검색어를 검색하고 수정하기위해 다시 앞으로 돌아가는 수고를 덜 수 있을 것이라고 생각한다. 
+
+
+http://littlebigdetails.com/post/37261946678/apple-when-watching-apples-tutorial-videos
+Apple홈페이지에서 iWork에 대한 튜토리얼 비디오를 보면 내가 무슨 동영상을 봤는지 옆에 작게 체크가 된다. 한번에 전부 볼 수 없는 동영상 클립들에 이런 표시를 해서 이걸 봤었는지 확인하고 기억이 안나 뒤로 돌려보고 로딩이 될때까지 기다렸다가 다시 확인하고 이런 번거로운 과정을 줄여줄 수 있을 것이다. 앞서 말했듯이 youtube를 켜놓고 사는 나로서는 이 기능이 youtube에도 있었으면 좋겠다. 봤던 영상 또보고 확인하는 과정은 매우 귀찮고 시간도 많이 걸린다.
