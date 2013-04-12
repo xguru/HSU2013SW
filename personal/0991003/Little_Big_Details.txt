@@ -1,0 +1,34 @@
+﻿1.Pocket (iOS) - After copying a URL, opening the Pocket app will automatically prompt you to save the content.
+
+/via Myles Tan
+
+평소 내가 생각했던 아이디어 이기도하다 ㅠㅠ 원하는 url을 포켓에 저장시키고꺼낸다면 나처럼 영어뉴스를 보거나 하는사람은 아주 편리할것 같다
+
+2.Google Maps iOS - Shaking the device allows the user to submit feedback.
+흔들면 구글맵을 지원한다라 좋다! 기왕이면 화면에서 특정키를 누르고 움직이면 특정 어플이켜지거나 하는것도 좋을듯하다.
+
+3.OS X - Searching in System Preferences highlights the relevant sections. The more relevant the section, the brighter the light will be.
+눈에 확들어와서 좋을것 같다.특히 나처럼 시력안좋은 사람이면..
+
+4.Dream Host - When submitting a support request, it asks you to “select your general expertise
+ 공유한다는 점이 참좋은 소프트웨어 인것 같다., 특히 전문지식이라니음.. 좋다
+
+5.YouTube - If you navigate away from a video, then immediately return, the player continues where it was left off.
+오 좋다 끊어진데보서 다시보다니 안그래도 보면서 안타까운적이 많았다.
+
+6.Dropbox - iOS app automatically pauses Camera Upload when the battery is running low.
+사진! 갤럭시2를 쓰면서 사진 찍다 저장못해서 날라갔을대의 고통을 줄여주는 좋은!
+
+7.Facebook - When you have your relatives marked on Facebook, you can search for them by their relation to you.
+
+연동검색 ! 아무리 봐도 대단하다 관련자료를 모아야한다는게 흠이지만.
+
+8.Make me a Cocktail - If you click on the search button with nothing in the search box, it types out a random cocktail for you to try.
+칵테일만들기 좋다 술읗 좋아하는 나로서는 이런거 하나있으면 재미있게 술을 마실수 있을듯.
+
+9.Facebook - The icon for marriages is automatically based on the genders of those involved.
+간단한 정보를 원하는 사람들에게는 좋을것 같다 결혼유무보고 슉 넘기면 되니까.
+
+10.Facebook Camera - After clicking the install now button, a pop-up message offers to text you a direct link to the app, with your phone number pre-filled in.
+
+자동적으로 핸드폰 번호 입력되는게 편할듯!
