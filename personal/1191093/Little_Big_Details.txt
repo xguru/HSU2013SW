@@ -1,0 +1,30 @@
+주제 : http://littlebigdetails.com/ 사이트를 둘러볼것
+ -> 10개 이상 맘에 드는 것/인상적인 것들을 뽑고 이유를 적을 것.
+
+
+ 1. iOS 6 - When turning the volume up with headphones connected, the volume bar shows warning indicators in yellow and red.
+  이유 : 개인적으로 이어폰으로 음악을 듣거나 할 때 볼륨을 크게 들어 좀 작은 소리는 잘 듣지 못하게 되었다.
+	작게 들으려고해서 무의식적으로 불륨을 키우게 되는게 있는데 이렇게 표시를 해주면 의식적으로 작게 들을 수 있을것같다.
+	나에게 필요한 기능이여서 뽑게 되었다.
+2. iCal - Shows birthdays from Address Book with the person’s name and age
+  이유 : 새로운 사람에 대한 기념일을 핸드폰에 저장을 하는 일이 많은데, 솔직히 나이까지는 기억 못하는 경우가 늘어나고 있다. 
+	그럴 때 이렇게 알려주면 작게나마 상대방에 대해 세심히 챙길 수 있어 좋은 거 같다(예를 들어 생일케익에 초를 살때 물어보지않아도 된다)
+3. Windows Phone 7 - The messaging app icon changes to sad face when an error occurred while sending a message.
+   Facebook - The notifications icon shows a different side of the globe depending on your location.
+  이유 : 작은 디자인으로 사용자에 대한 배려심이 느껴져서 좋다.
+4. Coda 2 - The sidebar is color-coded to show how “deep” the code is indented on each line.
+  이유 : 소스를 볼때 정돈되어서 편리할꺼같다.
+5. YouTube - When typing in the search box, recently made searches are shown in purple.
+  이유 : 이전에 찾는걸 다시 찾을때 색으로 구분이 되어 편리하게 찾을 수 있을꺼같다.
+6. Google search - When hovering over a suggestion, you see preview of the image search results for that term.
+  이유 : 해당 사이트에 들어가지 않아도 찾는 이미지를 미리 볼 수 있어 편리하고, 좀 더 쉽게 찾을 수 있을 꺼같다.
+7. Mixcloud - The faviconindicates whetherthe musicis playingor paused.
+  이유 : 웹사이트로도 음악을 자주들어서 기능이 맘에 든다.
+8. Gmail - When attempting to sign in with an incorrect password, it reminds you how long ago it was changed.
+  이유 : 비밀번호를 변경하고 나면 잘 기억이 나지 않을 때가 있는데 이렇게 알려주면 사용자가 비밀번호를 바꿧단 사실을
+	기억하기 쉬워 바꾼 비밀번호도 금방 기억이 날꺼같다.
+9. Apple - The Mickey Mouse watch on Apples’ iPod Nano site shows the actual time.
+   OSX - The little red close button displays a darker circle inside when your document has unsaved changes.
+  이유 : 귀여운 아이디어가 맘에 들었다.
+10. iOS - When using internet on EDGE network, loading icon in status bar rotates slower than it does on 3G.
+  이유 : 회전 속도를 통해서 네트워크 인터넷의 속도를 보여주는게 참신하게 느껴졋다.
