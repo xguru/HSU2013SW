@@ -1,0 +1,67 @@
+﻿1) http://littlebigdetails.com/post/47619730293/ios-6-the-night-time-weather-summary-shows-the
+
+날씨를 알려주던 것 이상으로 그날 저녁의 달의 모양을 보여주는 기능이다.
+요즘같은 달이나 별을 보고 살기도 쉽지않은 세상에 이런 기능은 감성에 좋은 기능 같다.
+
+
+2) http://littlebigdetails.com/post/3163836381/windows-7-if-the-task-bar-is-pulled-out-to
+
+윈도우7에서 작업표시줄이 두배 높이 이상으로 뜨게 되는 경우 기존의 시간만 나오던 것이
+여분의 공간을 활용하여 날짜와 요일을 추가해서 뜨게 하는 기능이다.
+매번 달력과 요일을 보려고 윈도우의 시게를 더블클릭하고는 했었는데 이제는 그럴필요가 없어질것같다.
+
+
+3) http://littlebigdetails.com/post/5011630523/calculator-app-when-you-rotate-your-ipod-the
+
+아이팟이나 아이패드를 가로로 회전하면 일반 계산기 였던 것이 공학용계산기로 변경된다.
+단순계산 말고도 제곱이나 루트 등 공학계산기의 기능이 필요할 때가 많았는데 일일이 환경설정으로
+변경해주는것보다 이렇게 간단하게 바꿔주는 기능이 편리한 것 같다.
+
+
+
+4) http://littlebigdetails.com/post/5420352205/youtube-allows-user-to-play-snake-with-keyboard
+
+유튜브를 보다가 버퍼링이 걸렸으면 생기는 동그라미들을 사용자가 키보드를 조작하여 뱀 꼬리 늘리기
+게임을 하며 버퍼링을 기다릴 수 있다.
+유튜브를 보다보면 가장 짜증나는경우가 바로 이 버퍼링을 기다리는 경우인데 그럴 때 이 꼬리늘리기 게임을 하면 버퍼링을 기다리는 시간을 지루하지 않게 보낼 수 있을 것 같다.
+
+
+
+5) http://littlebigdetails.com/post/7577371131/chrome-the-title-text-only-shows-what
+
+크롬에서 위의 탭들을 보면 앞쪽부터 작업내용이 적혀있는데 이기능을 쓰면 탭의 제목텍스트는 중요한 점을 보여준다.
+크롬에서 작업을하거나 과제를 할다보면 탭에 여러개가 열려있는 경우가 대부분인데 그럴때마다 맨 앞부분만 적혀있어서 내가 작업하던게 어느탭에 있었는지 한참을 찾고는 했었는데 이기능을 쓴다면 그럴일 없이 더 나은 작업환경을 가질수 있을 것 같다. 
+
+
+
+6) http://littlebigdetails.com/post/7618038486/instapaper-if-you-accidentally-rotate-your
+
+글을읽거나 영상을 볼때 가로/세로 모드로 보다가 실수로 가로/세로로 돌리는 기능을 방지 하는 것.
+누워서 스마트폰으로 영화를 보거나 글을 읽을때 자동으로 화면이 돌아가서 불편한 경우가 많았는데 이 기능이 있다면 그런 불편함은 사라질 것 같다.
+
+
+
+7) http://littlebigdetails.com/post/16117036663/facebook-when-a-comment-is-not-in-your-set
+
+페이스북에서 등록되지않은, 사용자가 사용하지 않는 언어의 글이 있으면 번역을 한다.
+페이스북을 통하여 알게된 다른언어를 쓰는 외국인 친구들끼리의 담벼락공유시에 좋은 작용을 할 것 같다.
+
+
+
+8) http://littlebigdetails.com/post/30240805001/facebook-the-icon-for-marriages-is-automatically
+
+페이스북에서 결혼을 뜻하는 아이콘이 신랑신부 아이콘이지만 동성의 결혼시에는 신랑만 2명이 있는 아이콘을 지원한다.
+성적소수자들을 배려하는 좋은 기능인것 같다.
+
+
+
+9) http://littlebigdetails.com/post/14511569223/ios-when-merging-icons-the-drawer-created-gets
+
+ios에서 어플 하나를 끌어서 다른 어플 위에 올려놓으면 두 어플의 공통되는 분류의 이름을 얻을 수 있다.
+게임2개를 겹치면 게임 혹은 엔터네이먼트라고 나와서 신기했던 기능이었다. 페이지를 심플하게 정리하고 싶을때 좋은 기능 인 것 같다.
+
+
+10) http://littlebigdetails.com/post/14564768064/gmail-when-attempting-to-sign-in-with-an
+
+Gmail에서 잘못된 비밀번호로 로그인을 시도 하였을때, 얼마전에 비밀번호를 바꾸었는지에 대한 힌트를 제공한다.
+내가 몇시간전에 무슨생각을 하다가 비밀번호를 만들었을지에 대한 힌트를 제공해 주는 좋은 기능인 것 같다.
