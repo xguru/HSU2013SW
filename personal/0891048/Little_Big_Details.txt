@@ -1,0 +1,62 @@
+﻿0891048 홍찬기
+
+1. 
+http://littlebigdetails.com/post/47619730293/ios-6-the-night-time-weather-summary-shows-the
+IOS 6 의 야간 날씨에 대한 달의 정환한 단계를 보여주는 것.
+정말 사소한 부분이지만 그래서 더 세세한것 까지 신경썼다는 것이 느껴집니다.
+
+2.
+http://littlebigdetails.com/post/47191125570/wordpress-issues-a-sarcastic-apology-for-having
+ WordPress 의 짧은 설치에 대한 사과문.
+설치 단계가 짧은것에 대한 사과를 한다는 것이 사용자에게 웃음을 주고 유쾌함을 지녔다.
+
+3.
+http://littlebigdetails.com/post/47107106972/os-x-searching-in-system-preferences-highlights
+ OS X 의 검색 관련 섹션을 강조한것. 관련이 많은 것은 더 밝게 빛난다.
+사용자가 시스템에 대한 검색을 할때 더 편하고 쉽게 원하는 것을 찾을 수 있게 해 주었다.
+단순하게 파일 이름만 나열된 것이 아니라 관련 항목별로 나열되고 특정 관련 파일은 밝게 빛나서
+정말 마음에 들었다.
+
+4.
+http://littlebigdetails.com/post/44063467562/facebook-the-prompt-text-in-the-update-status
+ 페이스 북은 "Update Status(업데이트 상태)" 필드에 프롬프트 텍스트를 새로고침 할때마다
+변경해 준다.
+당신의 기분이 어떤지? 무얼하는지? 등등을 물어보는 프롬프트 텍스트를 제공하면서
+사용자에 대한 세심한 배려가 있어 보인다.
+
+5.
+http://littlebigdetails.com/post/42665989126/xcode-the-editor-sidebar-shows-how-deep-the
+ 엑스 코드는 에디터 사이드 바에 깊은 코드의 들여 쓰기에 대해 회색값을 변화하여 보여준다.
+반복문이나 조건문 사용으로 인한 들여쓰기가 깊어질수록 사이드 바에 색을 더 진한 색으로 
+바꿔 주어서 이 부분도 사용자에 대한 세심한 배려가 아닐까 생각된다.
+
+6.
+http://littlebigdetails.com/post/42429819052/os-x-adjust-the-volume-in-1-4-increments-with
+ OS X 는 shift + alt + 볼륨 키를 이용하여 1/4씩 볼륨 조절이 가능하다.
+조용한 곳에서 공부를 할때 볼륨을 한칸 올리면 너무 크고 안올리면 너무 작다고 느낀적인 있는데
+이렇게 작은 부분까지 신경을 쓴것을 보면 정말 마음에 든다.
+
+7.
+http://littlebigdetails.com/post/42188419235/ios-6-when-selecting-new-wallpaper-preview
+ IOS 6 의 새로운 바탕화면 설정을 선택하면 미리보기 스크린 샷에 현재의 홈 화면과 잠금화면을
+실시간으로 볼수 있다.
+보통은 미리 만들어둔 화면을 보여주는데 적용된 현재의 화면을 실시간으로 보여 준다는 것이 
+마음에 들었다.
+
+8.
+http://littlebigdetails.com/post/42101777112/facebook-on-the-mobile-app-a-notification-tells
+ 페이스북은 글을 작성하는 동안에도 모바일 앱에서 새로운 알림에 대해 바로 알려준다.
+사용자가 글을 작성하는 동안에도 어떤 새로운 comment가 발생했는지 바로 알수 있다는 점이
+작지만 큰 배려라 느껴진다.
+
+9.
+http://littlebigdetails.com/post/41196163674/youtube-to-celebrate-1-billion-views-a-tiny
+ 유튜브에 강남 스타일은 10억 전망을 기념하기 위해, 작은 춤추는 싸이를 동영상 페이지에
+추가시켰다.
+한국인으로 자랑스럽기도 하고 재밌는 부분이라 느껴진다.
+
+10.
+http://littlebigdetails.com/post/37908920476/theyouway-com-when-opening-a-new-tab-the-page
+ theyouway.com 라는 사이트는 새탭을 열면 페이지 제목이 변경된다. "Come back luv!"
+이걸 보고 나는 새탭을 열었다가 당장이라도 theyouway.com이라는 사이트로 돌아갈것 같다.
+사용자에게 관심과 웃음을 주고 세심한 부분까지 신경 썻다는 것이 느껴진다.
