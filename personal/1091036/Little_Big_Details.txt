@@ -1,0 +1,40 @@
+http://littlebigdetails.com/post/46846938719/twitter-characters-exceeding-the-140-limit-are
+140자가 넘어가면 빨간색으로 하이라이트 해준다.
+트위터를 안써서 140자가 넘어가면 무슨일이 생기는지 모르겠지만 신기하다.
+우리 쓰는 문자에도 이런 기능이 있었으면 했다.
+
+http://littlebigdetails.com/post/46673674975/openerp-the-throbbers-text-update-every-few
+ㅋㅋㅋ2초마다 업데이트를 해 화면이 계속 로딩중이다. 매번 로딩화면 뜨는게 웃기다.
+
+http://littlebigdetails.com/post/46508343566/youtube-if-you-navigate-away-from-a-video-then
+유투브에선 비디오에서 떨어지면 정지되고 다시 돌아오면 그 시점에서 재생 된다고 한다.
+해봤는데 안된다. 뭘 따로 설정해야되는건 아닐까?
+
+http://littlebigdetails.com/post/44629504064/dropbox-ios-app-automatically-pauses-camera
+베터리가 없으면 업로드가 자동으로 정지된다고 한다. 신기하다. 
+
+http://littlebigdetails.com/post/44542050923/craigslist-submitting-posts-too-fast-displays-a
+이 사이트 재밌는게 많은 것 같다. 포스팅이 너무 빨라 디스플레이 할 수 없다는 메세지가 뜬다. 
+저런 메세지는 왠지 98년도에도 못봤을 것 같은 팝업창이다.
+
+http://littlebigdetails.com/post/42753733960/google-calendar-typed-times-in-the-event
+구글 캘린더 인데 할일에 12pm 점심 이런식으로 치면 자동으로 시간탭에 시간이 기록되고 할일 이름은 점심 
+이런식으로 저장이 된다고 한다.
+물론 12-2pm 이런식으로 범위가 있어도 된다고 한다.
+
+http://littlebigdetails.com/post/42505287890/gmail-app-if-you-use-the-open-in-chrome-link-for
+구글 어플은 이메일에 있는 링크를 따라 크롬의 인터넷에 연결됐을 시 다시 끄고 어플을 다시 키는게 아니라 
+바로 이메일(쥐메일)로 돌아갈 수 있는 버튼이 생긴다.
+이 기능은 인터넷에서 연결 되었다가 다시 끄고 다시 지메일 어플로 들어가지 않아도 되 정말 편리할 것 같다.
+
+http://littlebigdetails.com/post/42429819052/os-x-adjust-the-volume-in-1-4-increments-with
+맥북에서 alt-shift-volume 키를 투르면 1/4의 음량으로 셋팅 된다고 하는데 별거아닌데 편할 것 같다.
+
+http://littlebigdetails.com/post/42188419235/ios-6-when-selecting-new-wallpaper-preview
+아이폰에서는 배경화면을 바꿀때 밑에 바꿨을 시 모습을 바로 프리뷰로 보여준다. 별거 아닌 것 같지만 프로그래밍을
+한다면 정말 어려울 것 같다.
+
+http://littlebigdetails.com/post/41360748777/ios-6-when-turning-the-volume-up-with-headphones
+아이폰에서 이어폰을 끼고 볼륨을 너무 많이 높이면 노란색, 더높이면 빨간 색으로 경고가 뜬다. 소리가 크면 귀에 
+안좋다는 말을 많이 들었는데 
+대체 얼마만큼이 귀에 안좋은건지 몰랐었는데 이게 있으면 편할 것 같다. 
