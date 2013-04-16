@@ -1,0 +1,41 @@
+http://littlebigdetails.com/post/28697641689/vimeo-when-clicking-play-the-site-will-scroll
+1.재생을 클릭하면 사이트가 브라우저 창에 비디오를 맞게 위치를 맞춰준다. 평소에 웹 브라우저 창에서 동영상을 볼 때 
+화면 크기나 다른 여러 가지로 어색한 것이 있었는데 이러한 기능이 있으면 굳이 따로 설정할 필요가 없어서 편할 것 같다.  
+
+http://littlebigdetails.com/post/25021211540/ios-the-feature-speak-selection-on-settings
+2.ios에서 음성속도를 셋팅 할 때 좌측에는 거북이 우측에는 토끼 그림을 보여준다. 아이폰을 사용하는 유저로써 이렇게 
+생소한 곳에 포인트를 주는 것도 센스 있는 사용자임을 보여줄 수 있다고 생각한다.
+
+http://littlebigdetails.com/post/8047040721/yahoo-trying-to-sign-up-using-a-future-date
+3.사용자가 미래의 날짜를 선택했을 때, 단순히 오류창만 띄워 주지 않고, 유머러스하게 미래에서 왔냐는 문구를 띄워 
+소소한 즐거움을 주었다.
+
+http://littlebigdetails.com/post/7974713512/ios-safari-when-youre-typing-something-followed
+4.주소표시줄에 주소를 입력할 때, dot을 입력하면 com을 포함한 다른 도메인 옵션들을 보여준다. 솔직히 주소는 일일이 
+치기 너무 귀찮다. 이러한 기능이 있으면 사용자가 더욱 편해 질 것 같다.
+
+http://littlebigdetails.com/post/7618038486/instapaper-if-you-accidentally-rotate-your
+5.만약에 가로모드에서 세로모드로 변경이 되었는데, 다시 갑작스럽게 창의 모드가 바뀌면 로테이션 잠금 제어창이 뜬다. 
+난 평소에 핸드폰을 쓸 때 의도치 않게 가로/세로 모드가 변하는 경우가 많은데, 이런 기능은 나 같은 사용자들에게 유용할
+것 같다.
+
+http://littlebigdetails.com/post/6622008735/youtube-nyan-cat-progress-indicator-on-youtube
+6.유투브 재생 진행률 표시기를 귀여운 고양이 모양으로 바꾸었다. 개인적으로 이런 소소하게 꾸미는 것을 좋아하고, 
+이런 설정을 하나 정도 해놓는다면 센스있는 사용자가 될 것 이다.
+
+http://littlebigdetails.com/post/5636895870/feather-ios-app-the-twitter-bird-turns-slowly
+7.트위터는 쓸 수 있는 글자의 수가 제한되어 있지만, 일일이 세기는 참 귀찮은 일이다. 이 기능은 당신이 만약에 140자에
+가까워지면 트위터 새가 점점 붉은 색으로 변해간다. 이런 기능은 육안으로 쉽게 판별할 수 있어 사용자에게 편리함을 줄 
+것이다.
+
+http://littlebigdetails.com/post/5606020186/zappos-after-getting-a-500-server-error
+8.만약에 서버 오류가 발생하면 화면에 있는 강아지 캐릭터가 당신이 무엇을 해야 할지 가리켜 준다. 이러한 기능은 컴퓨터를
+잘 모르는 사람도 아주 쉽게 오류를 벗어날 수 있게 해줄 것이다. 그리고 디자인 면에서도 웹페이지의 퀄리티를 높여준다.
+
+http://littlebigdetails.com/post/4955752459/gmail-suggests-other-people-you-might-want-to
+9.당신은 E-mail을 보낼 때, 거의 반복되는 주소로 계속 보낼 것이다. 매번 보낼 때마다 일일이 계속 주소를 써주는 것은 
+정말 귀찮은 일이다. 이 기능은 최근에 메일을 보냈던 사람을 링크해주어 다시 주소를 써야 하는 번거로움을 덜어준다.
+
+http://littlebigdetails.com/post/3638356716/google-chrome-paste-and-go-in-one-click-via
+10.인터넷 주소창에 주소를 입력할 때, 주소를 복사하여 붙여넣기를 해줄 때가 있다. 이러한 경우에는 거의 확실한 주소일 
+경우가 커 바로 연결까지 시켜주는 이 기능이 유용할 것 같다.
