@@ -1,0 +1,49 @@
+1. http://littlebigdetails.com/tagged/music
+여기에 두번째 있는 bbc라이도 볼륨이 11까지 인것
+이유 : 요즘 음악 듣는 사람들이 많아 지면서 난청도 심하게 증가 되고 있는 시기에 볼륨을 11까지 지정해주는 센스
+  앞으론 법적으로 소리최대 범위를 낮춘다는 얘기도 있었다고 들었던 기억이 납니다.
+
+
+2. http://littlebigdetails.com/tagged/design
+여기에 첫번째 있는 os x에서 시스템 환경에서 더 많은관련부분 밝은빛으로 해놓은것
+이유 : 가끔 컴퓨터로 시스템설정 찾느라고 제어판에서 헤맨기억이 있는데 이런 기능이 있는 os를 쓰면 쉬울것 같습니다.
+
+
+3. http://littlebigdetails.com/tagged/ui
+여기서 3번째 있는 github의 저장소를 삭ㅈ할려면 전체 저장소 이름을 입력하게 하는 시스템
+이유 : 간혹 잘못된내용을 지우게 하는 경우 있는데 그것을 방지 할수 있고 한번더 생각해주게 하는 것 같습니다.
+
+
+4. http://littlebigdetails.com/tagged/mac
+여기서 6번째 있는 os x 의 확장자 바꿀때 앞에 메인 이름 수정을 방지 하는 시스템
+이유 : 윈도우에서 이름 바꾸기 하다가 원본 이름이 바뀌는 경우가 많이 있습니다. 그걸 방지 할수 있는 시스템이라고 생각합니다.
+
+
+5. http://littlebigdetails.com/tagged/icon
+여기서 3번째 있는 facebook 알림 아이콘이 위치에 따라 지구본 모양이 바뀌는 디테일
+이유 : 아무도 신경 안쓰지만 꼼꼼한 디테일이라고 생각합니다.
+
+
+6.http://littlebigdetails.com/tagged/icon
+여기서 맨 마지막에 있는 유튜브의 재생아이콘이 한번 봤을땐 바뀌는 현상
+이유 : 봤나 안봤나 확인 가능한 센스 있는 기능
+
+
+7.  http://littlebigdetails.com/tagged/code
+여기서 두번째에 있는 내부 코드에 따라 색깔변화
+이유 : 코드가 길어 졌을때 내부 코드 확인이 변하다.
+
+
+8. http://littlebigdetails.com/tagged/credit-card
+여기에 두번째에 있는 번호로 신용카드 선정
+이유 : 좀더 빠르게 할수 있고 나름 배려 하는 센스
+
+
+9. http://littlebigdetails.com/tagged/app
+여기에 4번째에 있는 배터리가 없을때 카메라 기능이 일시 중지 되는 기능
+이유 : 갤럭시는 배터리가 없으면 카메라가 묻지도 않고 저절로 꺼지는데 ios는 일시 중지 해주는 좋은 기능
+
+
+10.http://littlebigdetails.com/tagged/widget
+여기서 두번째에 있는 os x에서 날씨 위젯은 우박처럼 애매한 날씨 조건에 대한 그래픽을 가지는 기능
+이유 : 섬세하게 애매한 조건의 날씨를 표현할수 있는 기능이 있다. 
