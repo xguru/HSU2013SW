@@ -1,0 +1,19 @@
+OS X - Option-click Sound icon in the menu bar to change sound output and/or input quickly. 간혹가다가 인터넷 웹사이트상에서 음악이나 동영상이 자동재생되도록 하는 사이트가 있는데, 이렇게 갑자기 음악이나 영상이 재생될경우 시끄러울경우가 많은데, 이럴때 보다 신속하게 사운드 조절을 할 수 있으므로, 인상적이다.
+
+iOS 6 - the night time weather summary shows the correct phase of the moon. 한국에서는 음력이 존재하는데, 달의 모양을 토대로 음력의 날짜를 지레짐작으로 추측할 수 있으며, 달의 모양(음력)에 따라서 일을 해야하는 직업군에게 소소하지만 유익한 정보가 될 수 있다는 점에서 유익하다.(물론 음력이 중요한 직업군은 미리 알고 있겠지만...)
+
+Notable - When the settings panel is loading or saving, the gear icon spins. 톱니바퀴의 모양이 돌아감으로써, 이것이 저장중인지 아닌지를 확인 할 수 있는데, 그럴리는 있을리 없겠지만, 스마트폰이 과부하가 걸릴경우에 환경설정을 마치고 저장을 하면 멈추는 경우가 생길 수 있는데, 이때 톱니바퀴가 돌아간다면 저장중인지 다운이 됬는지 보다 헷갈리는경우는 사전에 막을 수 있다는 것이 인상깊다.
+
+Chrome - When downloading a file that “appears malicious” Chrome asks if you want to keep or discard it. 아주 세심한 기능이지만, 악성이라고 표시된 파일을 다운받았을시에 자동으로 가지고있거나, 실행하는것이 아닌, 이것을 삭제할것인지 사용할것인지 물어봄으로써, 사용자의 컴퓨터를 안전하게 사용 할 수 있도록 유지하는게 좋은기능이다.
+
+Gmail - When you send an email that contains a Google Drive link, it warns you if the file isn’t shared with the recipients. 메일에서 파일을 주고 받을때 서로 연결이 안되서 메일이 안보내진경우 경고를 띄워줌으로써, 메일이 안가는경우를 막아주는데, 이는 현재에 많은 웹사이트들이 사용하는 기술이긴 하지만, 없으면 나중에 사용자들이 뒷통수를 맞을 수 있는 기능이므로, 인상깊다기 보다는 gmail에 꼭 필요한 기능인것같다.
+
+YouTube - If you navigate away from a video, then immediately return, the player continues where it was left off. 유투브에서 동영상을 보다가 접속이 갑자기 중단된다거나, 다른동영상을 보다가 다시 돌아온경우에 자신이 본 곳에서 다시 동영상이 플레이 된다면, 이용자들이 그전까지 봤던곳으로 이동해야 하는 수고를 덜 수 있는게 세심한 배려이다.
+
+Dropbox - iOS app automatically pauses Camera Upload when the battery is running low.  카메가의 업로드를 할때 배터리가 없으면 자동으로 업로드를 중지하는 기능인데, 이 기능은 카메카 뿐아니라 다른어플리케이션에서도 적용을 한다면 소비자에게 엄청난 편리를 제공해 줄수있는 기능같다. 그래서 다른분야로 응용하기엔 참 좋은 기술이라서 여태봤던것중에 가장 인상적인것같다.
+
+Gmail - Incompatible versions of Internet Explorer show a damaged envelope as the favicon. IE와 호환되지 않은 gmail은 주소창에 손상된 봉투모양이 보이는데, 이는 메일이 스팸메일인지 아니면 손상되서 이미지나 텍스트가 깨진것인지 판단하기 힘들때 이 주소창을 통해서 알 수 있다. 앞에서 메일의 악성파일을 받았을때 경고해주는기술과 같이 연동을 할 경우에 메일수신에 대해서 스팸메일에 대해서 걱정을 하지 않을정도로 이론상으로는 가능할것같다.
+
+Mailchimp - The logout URL says “see ya later” to the user. URL이 사용자'나중에'라는 로그아웃을 남기는데, 이때 중요한 것은 당장은 장난같아 보이지만, 많은곳에서 사용될 수 있을 것 같다. 게임에서 장시간접속이 이뤄진경우, 보안이중요한 사이트에서 미로그아웃접속자등 여러형태에 걸쳐서 응용한다면 다양하고, 재미있게 사용자들에게 전할수 있을것같아서 인상적인것같다.
+
+Xcode - The editor sidebar shows how “deep” the indentation of the code is with varying values of grey. 코드를 할때 들여쓰기 된 문단을 회색으로 표현하는데, 이는 기존의 visual에서도 어시스트를 깔아서 사용할경우 이런 기능이 나온다(문법단어의 색깔 및 코딩인 경우 회색) 다만 개발자라면 많은 언어를 다뤄야 하기때문에 모든 개발프로그램에 이것이 장착화 된다면 개발자들은 좀더 수월하게 오타를 줄일수 있을것같다는 생각이 든다. 그래서 간단하지만 편의를 높이는 이 기술도 기억에 남는다.
