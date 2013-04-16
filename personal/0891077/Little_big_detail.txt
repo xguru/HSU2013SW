@@ -1,0 +1,132 @@
+﻿http://littlebigdetails.com/post/42188419235/ios-6-when-selecting-new-wallpaper-preview
+
+iOS 6 - When selecting new wallpaper, preview screenshots show a realtime view of your current home & lock screens
+
+/via Rich Cornish
+
+배경화면이나 잠금화면 설정시 어떻게 표시될지 미리보기 해주는 기능입니다.
+
+아이폰 뿐만 아니라 안드로이드 체제에서도 필요한 체제라고 보입니다.
+
+보통 웰페이퍼, 잠금화면 설정시 설정 후에나 어떤식으로 보이는지 알수 있는데, 막상 설정후 맘에 안드는 경우도 많았기 때문입니다.
+
+그런점에서 유용한 기능 같습니다.
+
+
+
+
+http://littlebigdetails.com/post/46846938719/twitter-characters-exceeding-the-140-limit-are
+
+Twitter - Characters exceeding the 140 limit are highlighted in red.
+
+/via Simon van Woerden
+
+트위터에서 140 글자 이상 작성시 넘어간 부분을 하이라이트로 표시해주는 기능입니다.
+
+간편한것 같지만 없었던 기능이기 때문에 다른곳에도 유용하게 활용하면좋을것 같습니다.
+
+
+
+
+http://littlebigdetails.com/post/44063467562/facebook-the-prompt-text-in-the-update-status
+
+Facebook - The prompt text in the “Update Status” field constantly changes on refresh.
+
+/via Ahmed El-Agha
+
+페이스북에서 기본 상태 업데이트에서 질문 문구를 항상 바뀌게 해주는 기능입니다.
+
+어떻게보면 질릴수도있는 안내문구에 여러가지 문구가 바뀌어 신선하게 느껴지게 해줍니다.
+
+
+
+
+http://littlebigdetails.com/post/41196163674/youtube-to-celebrate-1-billion-views-a-tiny
+
+YouTube - To celebrate 1 billion views, a tiny dancing Psy was added to the video page for Gangnam Style.
+
+애국심이 조금들어가 있습니다.
+
+10억명이 본 강남스타일 뮤직비디오에 조그마하고 귀여운 싸이의 말춤 이미지를 추가합니다.
+
+귀여워 보이고 상업화에있어서 캐릭터가 중요하기 때문에 좋은 기능으로 보여집니다.
+
+
+
+
+http://littlebigdetails.com/post/32327290271/google-flight-search-results-on-mobile-google
+
+Google Flight Search Results - On mobile, Google flight status results include an airplane placed on a line at a point relative to its flight progress. Color communicates whether the flight is on time or not.
+
+/via Erin Olmon
+
+구글 플라이트 에서 지연이나 결항시 해당되는 항공기의 번호나 시간에 붉은색으로 포인트를 주어 문제가 생겼음을 확실히 알게해주고
+
+지연시 지체되는 시간또한 표시되어 편리한 기능이라고 생각합니다.
+
+
+
+
+
+http://littlebigdetails.com/post/29407836358/facebook-if-you-try-to-log-in-with-a-wrong
+
+Facebook - If you try to log in with a wrong password, Facebook will send you an email with an Instant Login link.
+
+/via Hannes Struß
+
+페이스북 로그인 실패시 지정된 이메일로 바로 로그인할수 있는 기능을 제공해줍니다.
+
+보안상의 위험이 있지만 편리한 기능이라고 생각합니다.
+
+
+
+
+
+http://littlebigdetails.com/post/10035407518/google-google-wishes-you-happy-birthday-based-on
+
+Google - Google wishes you happy birthday based on the information from your Google+ profile. Clicking the doodle sends you to your profile at Google+.
+
+구글에 생일 프로필을 지정하여 생일 당일날 생일을 표시하게 해줍니다.
+
+단순한 기능이지만 기분좋은 기능인것 같아서 꼽았습니다.
+
+
+
+
+http://littlebigdetails.com/post/6036980684/os-x-weather-widget-has-graphics-for-obscure
+
+OS X - Weather widget has graphics for obscure weather conditions like a hailstorm.
+
+우박과같은 명확하지 않은 현재 날씨를 위젯 에 그래픽으로 표현해줍니다.
+
+감성적인 느낌도 늘고 확실히 현재날씨를 알수있어 필요한 기능처럼 보입니다.
+
+
+
+
+http://littlebigdetails.com/post/5575470280/windows-7-multiple-monitors-that-arent-aligned
+
+Windows 7 - Multiple monitors that aren’t aligned cause the cursor to stop at the corners, but only if you are moving slowly.
+
+/via Colin Dabritz
+
+듀얼모니터를 사용하는 저로서는 정말 좋은 아이디어라고생각됩니다.
+
+이 기능으로하여금 듀얼모니터의 높이가 맞지 않을때 더 편하게 수평을 맞출수 있게 해줍니다. 
+
+
+
+
+http://littlebigdetails.com/post/3638356716/google-chrome-paste-and-go-in-one-click-via
+
+Google Chrome - Paste and Go in one click.
+
+/via Koke
+
+매우 간단한 기능으로 복사한 주소를 복사후 자동으로 들어가게 해줍니다.
+
+습관적으로 paste 후 enter 또는 버튼으로 한번의 과정을 더 거치게 하는데, 컴퓨터 초보자들에게는 이 기능으로
+
+한단계 덜 거치게 되어 더 간편하게 사용할수 있게 될수 있을것 같습니다.
+
+
