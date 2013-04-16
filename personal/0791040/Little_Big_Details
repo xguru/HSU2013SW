@@ -1,0 +1,41 @@
+01, iPad 팬텀 키보드 / iPad키보드의 숨겨진 기능,자판이 반으로 나뉘어져 있지만 실제로는 T버튼 옆에 Y버튼이 존재한다.
+T, G, B, N, H버튼도 마찬가지이다. 습관적으로 Y버튼을 누르기 위해 보이지 않는 부분을 탭했을때, 정상적으로 타이핑을 
+이어나갈 수 있다. 사용자의 타이핑 습관까지 고려한 애플의세심한 배려가 돋보인다.
+URL : http://littlebigdetails.com/post/17211149368/ipad-keyboard-there-are-phantom-keys-in-the
+
+02, IOS 6 / 사용자가 타이핑하는 키보드 언어의 특성을 감지해 단어의 부분에 따라 정확한 발음 구별 부호를 표시한다.
+어떻게 보면 굉장히 사소한 부분이고, 눈에 띄지 않을 수도 있지만 작은 부분까지도 사용자의 편의를 생각한 점이 돋보인다.
+URL : http://littlebigdetails.com/post/36592694868/ios-6-keyboard-detects-specifics-of-language-and
+
+03, Google Search / 검색한 단어에 대한 이미지를 하나하나 열지 않고 미리보기 할 수 있다.
+평상시 당연한 줄 알고 사용했던 기능이지만 사용자에게 편리함을 제공해주는 유용한 기능이다. 
+URL : http://littlebigdetails.com/post/18902598391/google-search-when-hovering-over-a-suggestion
+
+04, Google Chrome / 인터넷이 연결되지 않았을 경우 인터넷이 필요한 응용 프로그램의 아이콘이 그레이스케일로 보여진다.
+인터넷 연결이 되지 않았을때 사용해 본 적은 없지만 이러한 부분까지 생각한다는 것이 인상 깊었다.
+URL : http://littlebigdetails.com/post/12161973937/google-chrome-beta-channel-shows-the-icons-of
+
+05, i Phone / 아이폰을 충전 케이블에 연결했을때 이를 진동을 통해 사용자에게 알려준다. 제대로 연결이 되지 않았다거나
+결함이 있는 케이블에 연결되었을때 제대로 연결이 되었는지 일일이 확인을 하지 않아도 되어 편리하다.
+URL : iPhone - When you plug your iPhone, it vibrates to indicate that it’s charging.
+
+06, iOS Safari / URL입력시 .com/.net/.org/.edu 처럼 자주 쓰게 되는 주소를 키패드의 버튼으로서 나타낸다. 아이폰을 
+사용했을때 본인도 유용하게 썼던 기능 중 하나로 편리한 기능이다.
+URL : http://littlebigdetails.com/post/7974713512/ios-safari-when-youre-typing-something-followed
+
+07, YouTube / 일반적으로 검색시에 많은 양의 자동완성 기능을 볼 수 있는데 동영상 재생중에 검색을 하게 될 경우에는 
+자동완성기능 창이 재생중인 동영상을 가리지 않도록 한다. 사용자는 검색을 하는 동안 동영상 감상을 방해 받지 않을 수 있다.
+URL : YouTube - When typing in the search box, the autocomplete dropdown size will be limited so it doesn’t cover the video.
+
+08, G mail / Gmail에 로그인시 잘못된 비밀번호를 입력하였을 경우 단순히 로그인이 안되는 것이 아니라 비밀번호가 바뀐 시기를 알려준다.
+비밀번호가 변경된 시기를 알았을때 그것은 사용자가 비밀번호를 찾을 수 있는 힌트가 될 수 있다.
+URL : http://littlebigdetails.com/post/14564768064/gmail-when-attempting-to-sign-in-with-an
+
+09, Chrome / 크롬을 통해 파일다운로드를 할 때 하단부분에 진행상황을 보여주는 창이 활성화 된다. 
+다운로드 속도, 남은시간 등의 정보를 쉽게 확인 할 수 있는 기능이다.
+URL : http://littlebigdetails.com/post/11991805579/chrome-after-clicking-on-an-active-download-the
+
+10, Google 번역 / 구글번역을 통해서 번역을 할 경우 문맥적으로는 맞지 않는 단어로 변역이 된는 경우가 있다. 
+이러한 경우 단어를 클릭하면 해당 단어와 비슷한 의미의 단어목록이 나와 문장을 수정할 수 있다. 지금 과제를 하면서도 기능설명을
+참고하기 위해 구글번역을 사용하고 있는데 이 기능은 언제봐도 유용한 기능인것 같다.
+URL : http://littlebigdetails.com/post/6759519976/google-translate-hovering-over-the-translation
