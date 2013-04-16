@@ -1,0 +1,118 @@
+﻿1. Youtube video timeline
+
+가장 제일 처음에 있는 아이디어.
+정말 사소한 것이지만, 현재 위치가 어느 시간대인지 알 수 있게 해주었고
+현재 유튜브에서 응용되어 화면 미리보기까지 발전시킨 아이디어다.
+
+
+2. Google Chrome browser - Press tab to search website
+
+이 아이디어가 여기에도 있는 줄 몰랐다.
+몇주전에 크롬에서 발견했었는데, 정말 이 아이디어는 하나의 검색창에서
+마우스 클릭없이 키보드로만 다양한 검색을 할 수 있게 해줘서 매우 편하다.
+
+
+3. Twitter username form field & Twitter sign up password form
+
+보통 회원가입에서 아이디의 존재유무를 확인할 때, 확인 팝업창이 뜨는것이
+항상 귀찮게 느껴졌는데, 바로 옆에서 클릭 없이 확인을 해줘서 매우 편하다.
+또한 요즘 보안에 대해 많이 민감한데, 비밀번호 보안성에 대해 자가 평가를 해,
+안전성에 대해 표시해주는 것 또한 사람들이 매우 원하는 아이디어일 것이다.
+
+
+4. Rdio - Interesting search dropdown with grouped results
+
+검색창에 검색단어를 적으면 바로 검색 결과가 아닌 밑으로 다양한 카테고리로
+미리 결과물에 대한 제목을 볼 수 있는 아이디어. 내가 찾고자 하는 부분이
+어느 카테고리인지 정확히 모를 때나, 연관검색을 찾고 싶을 때 매우 유용하다.
+
+
+5. Github - Credit card autodetection by number
+
+카드번호의 앞자리에 따라 해당 카드사가 어딘지 알수 있는데,
+그 카드번호의 딱 맨 앞자리만 알고 적으면 어느 카드인지 바로 알려주는 건
+잊고 있어도 쉽게 찾아 줄 수 있을거 같아 편한거 같다.
+
+
+6. houseofbuttons - Playtime of song visualized in button (unknown source)
+
+플레이시간을 따로 progress bar와 같은 것이 아닌 Play/Pause Button 테두리로
+표시해 디자인을 매우 독특하게 해주었다. 참신한 디자인 아이디어라서 맘에 든다.
+
+
+7. Offcial Twitter app for iPhone - Dragging down the whitespace of reply screen shows what tweet you are about to send reply.
+
+트위터는 자주 이용하진 않지만, 트윗에 대한 답장을 할 때, 어떤 트윗이었는지
+다시 확인할 때 바로 확인할 수 있어 매우 편한 아이디어다.
+
+
+8. Tweetdeck for Chrome - Toggle between full and shortened URL’s by clicking on the link
+
+스마트폰이 대세인 요즘 모바일을 통한 인터넷을 할 때, 현재와 같은 URL은
+너무 길어서 불편한데, 이렇게 URL을 압축시킨 URL은 길지 않아 보기도 편하고
+컴퓨터에서도 사용이 가능해 매우 좋은 아이디어다.
+
+
+9. Lego - The lego character covers his eyes when a user types in their password
+
+이 아이디어는 매우 귀여워서 채택했다. 비밀번호를 적을 때, 바로 옆에 있는
+레고 캐릭터가 눈을 가리는 것이 재밌고 귀엽다.
+
+
+10. Chrome - Cmd-1 is the first tab, Cmd-2 is the second tab etc… but Cmd-9 is always the last tab.
+
+이건 현재 나도 매우 유용하게 쓰고 있는 아이디어다. 윈도우에선 Ctrl 키를 이용해
+숫자 1~9를 누르면 Ctrl + Tab 을 마구마구 눌러 이동하지 않아도 편하게 한번에
+이동할 수 있어서 매우 편리하다.
+
+
+11. Amazon - Show the item counter inside the shopping cart.
+
+국내 쇼핑몰 사이트는 넓은 화면에서만 가장 옆자리에 지저분한 장바구니를 보여주는데,
+아마존에선 깔끔하게 어느만큼의 상품을 장바구니에 담았는지 표시되어있다.
+디자인이 매우 마음에 들어서 선택했다.
+
+
+12. Zappos - After getting a 500 server error, hovering the three main options will make the dog show you what to do.
+
+웹사이트에서 발생한 에러에 대한 조치를 강아지 캐릭터와 화살표로 재밌게 표현해
+유쾌한 아이디어다.
+
+
+13. iOS - When you enable airplane mode on iPhone, a little airplane icon flies from the edge of the screen.
+
+ios 제품에서 비행기모드로 변환시에 표시되는 비행기 이미지가 단순한 이미지가 아닌,
+실행시 옆에서 슬며시 나오는 애니메이션이라 재밌는거 같다.
+
+
+14. iOS - When opening a folder, little triangle slides down with the folder’s contents.
+
+독특한 GUI 이고, 아이폰 유저가 아니지만 이런 GUI는 꽤 마음에 들어 선택했다ㅏ.
+
+
+15. Burton -  The eyes beside the search box follow your mouse around the page.
+
+검색창 기준으로 마우스 커서가 있는 위치를 검색창의 눈이 쳐다보고 있는 재밌는 아이디어
+
+
+16. Yahoo - Trying to sign up using a future date won’t work
+
+생일 적는 란에 오늘 날짜보다 미래일경우, 작동을 막아놨다.
+그리고 바로 옆에 뜨는 경고창의 문장이 독특한 느낌. "정말 미래에서 태어났니?"
+
+
+17. Google - Google wishes you happy birthday based on the information from your Google+ profile. Clicking the doodle sends you to your profile at Google+.
+
+자신의 생일날 구글 계정에 로그인하고 구글에 들어가면 메인에서 축하하는 그림이 나온다.
+독특한 아이디어다. 생일축하인사를 못받으면 구글에 들어가면 될 듯
+
+
+18. Vimeo - The bar you mouse over will grow taller so you known when to click.
+
+마우스를 클릭하면 어느 위치인지 알 수 없는데, 마우스 위치에 따라 볼륨바가 길게 표시되어
+위치를 알 수 있다. 재밌는 듯
+
+
+19. iPad Keyboard - There are phantom keys in the middle when you split the keyboard in half.
+
+화면이 큰 iPad 를 사용하는 유저를 위한 센스 있는 가상 키보드.
