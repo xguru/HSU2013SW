@@ -1,0 +1,71 @@
+﻿1.
+http://littlebigdetails.com/post/2696245014/iphone-turn-shift-blue-via-double-click-and
+
+보통 안드로이드 같은경우에 영어로 작성을 하게되면 대문자를 쓸일이 많아지는데 문제는 대문자를
+쓸수 있는 것이 시프트를 누른 상태에서 한글자밖에 작성이 안되고 다시 소문자로 돌아가게 됩니다.
+그런데 두번클릭을 하게되면 계속 대문자 상태가 유지되는 것이 마음에듭니다.
+
+2.
+http://littlebigdetails.com/post/3362688919/co-design-shows-the-time-the-post-was-written-in
+
+이것은 교수님께서도 말씀하셨던 부분이기도 한데 확실히 USB를 꽂는 단자가 한쪽으로만 되있는 것을
+지금까지는 그냥 아 이쪽으로 끼워야 되네라는 생각만 가지고 있었을 뿐이었습니다. 그런데 
+막상 진짜 이렇게 양쪽으로 어느 방향으로 꽂아도 맞는 USB라니 있다면 정말 편리할 것 같습니다.
+
+3.
+http://littlebigdetails.com/post/3658184595/socialite-asks-you-if-you-want-to-move-it-to
+
+좋은 생각 인 것같습니다. 실행을 하기전에 옮기고 실행하겠다라는 물음을 갖는다 라는 것은
+사실 많은 사람들도 공감할 것 같습니다. 보통은 자신이 원하는 곳에 파일을 옮기고나서 실행을
+많이 하기 때문입니다.
+
+4.
+http://littlebigdetails.com/post/1454462948/google-chrome-browser-press-tab-to-search
+
+크롬 브라우저에서 네이버를 치다가 Tab을 누르면 URL 자체에서 검색단어를 작성할 수 있는 기능입니다.
+사실 잘몰랐던 기능이었는데 지금 막상 해보니 가능하다는 것을 알았습니다. 검색을 자주하는 저로써는
+상당히 유용한 기능인 것 같습니다.
+
+5.
+http://littlebigdetails.com/post/2088667459/reeder-app-website-makes-use-of-some-nice-css3
+
+그동안 대부분의 웹페이지에서 꾸미거나 디자인 처리방식은 j-Query만이 살아남았다고 생각했는데 
+확실히 IT세계에서 절대성이라는 것은 존재하지 않는 것 같습니다. CSS도 계속해서 발전하고 
+진화하고 있는 것을 보았습니다. 신기합니다.
+
+6.
+http://littlebigdetails.com/post/1618522965/the-hit-list-make-a-task-repeating-by-typing-in
+
+의미만 보아서는 잘은 모르겠지만 아마도 반복하는 기능을 내가 계속 재정의 해줌으로써 기능을 
+바꿔주는 것 같습니다. 이런 기능이 있다는게 정말 신기한 것 같습니다. 특히나 사용자가 특정반복
+기능을 요구하시는 분이라면 더더욱.
+
+7.
+http://littlebigdetails.com/post/3291828712/twitter-for-mac-after-typing-the-first-few
+
+이런 스마트한 기능 너무 좋습니다. 내가 특정 단어를 치다가도 특정 버튼을 누르게되면 해당단어로
+시작하는 것이 자동으로 완성되는 기능.. 물론 일종의 자동완성기능의 개념으로써 기존의 나와있는 개념
+이기도 하지만 실질적으로 앱에서 사용할 수있다는 것이 더 좋은 것 같습니다. 특히나 단어가 기억이
+잘 안나는 경우에도 말입니다.
+
+8.
+http://littlebigdetails.com/post/46935745599/scri-ch-the-404-is-a-regular-scri-ch-drawing
+
+우리가 웹개발을 할때에 없는 페이지를 요청하게 되면 서버에서 404에러페이지를 보여줍니다.
+보통은 우리는 서버에서 정의된 페이지를 보여주지만 여기서는 이것을 임의대로 저장하고 
+우리가 정한 것에 대해서 보여주는 것 같습니다. 그러한 부분이 마음에 듭니다. 내가 개발한 무언가가 
+잘못된 페이지로써 딱딱한 오류페이지보다는 낫다는 생각이듭니다.
+
+9.
+http://littlebigdetails.com/post/47619730293/ios-6-the-night-time-weather-summary-shows-the
+
+우리가 보통 생각하는 시간의 개념을 뒤집은 발상이 너무도 마음에 듭니다. 대충 내용으로 봐서는
+인간이 살아가는데 필요한 시간이라는 정확한 개념의 숫자를 그것이 아닌 달의 모양으로써 시간의 흐름을
+나타낸다는 것이 어찌보면 단순하지만 좋습니다.
+
+10.
+http://littlebigdetails.com/post/5420352205/youtube-allows-user-to-play-snake-with-keyboard
+
+유투브 동영상을 불러오고 있을때 좌우 방향키를 누르면 꼬리잡기 게임을 할수 있습니다.
+처음에는 참 할일 없는 사람들이라고 생각했지만 인터넷이 빠른 곳에서는 상관없어도 막상 조금이라도 
+버퍼링이 걸리는 지역에서 이용하게 될 경우 나 자신도 모르게 뱀게임을 하고 있는 저를 보게됩니다.
