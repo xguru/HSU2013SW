@@ -1,0 +1,57 @@
+﻿1)http://littlebigdetails.com/post/47107106972/os-x-searching-in-system-preferences-highlights
+-System preferences창에 검색을 하면 그 주변에 연관되는 섹션들이 하이라이트를 통해서 눈에 확 띄게 된다.
+ Personal,Hardware,Internet등등 큰 여러 종류에서 관련된 섹션들이 뜬다는것이 정말 효율 적이라고 생각되고
+ 검색할 내용은 있는데 그 이름이 자세히 생각이 나지 않을 경우에 참으로 도움이 될 것 같다.
+
+
+2) http://littlebigdetails.com/post/20286226116/mac-osx-the-world-map-displayed-within-the-data
+-세계 지도가 그림으로 나타나는데 데이터들과 시간 시스템이 포함되어 계절에 따라 지도의 색깔이 변한다.
+ 지도 하나를 가지고 이렇게 계절이 어떤지 대강 알 수 있다는 것, 또한 자신의 위치가 대강 어디라는점이 
+ 좋고, 또한 색깔이 변화하면서 지도가 move하는 것이 보기에 좋다.
+
+3)http://littlebigdetails.com/post/5160290478/mac-app-store-the-progress-bar-of-installing-an
+-Mac App Store로 부터 설치하는 앱의 프로그래스 바가 그 판 안에서 확장할 때 그 면적은 아이콘들로부터 
+ 분리되어 표시된다. 이 장치는 우리가 어떤 앱을 다운 받을 때 깔끔하게 어떤 앱을 설치한느지 보여주고
+ 그 쪽으로 마우스를 갖다 대면 그 표시가 확장되어 어떤 앱인지 더 크게 자세히 볼 수 있다. 화면을 깔끔하게 
+해주면서 우리에게 편리함을 주는 것 같다.
+
+4)http://littlebigdetails.com/tagged/mac/page/2
+-Twitter for mac:몇 글자를 타이핑 한 후에 ESC키를 누르면 그 단어로 시작하는 많은 단어들의 목록을 볼 수 있다.
+ 이 장치는 다른 앱에서도 마찬가지로 수행되지만 이것은 OSX의 원시적인 특징이다.
+ 이러한 기능은 다른 곳에서도 많이 보았고 편리하다는 생각을 하고 있었는데 이것이 OSX에서 처음 한 것이라니
+뜻이 깊어 이렇게 쓰게 되었다.
+
+5)http://littlebigdetails.com/post/5271628198/osx-excellent-integration-of-the-macapp-store
+-OSX: 알 수 없는 파일 타입등을 위해 MaxApp Store가 OS로 통합된다.
+ 자신이 찾고 싶은 어플리케이션이 있을 때 찾을 수 없는 경우가 있다. 그러한 경우에 이 장치를 사용하게 된다면
+ 더욱 많은 자료를 가지고 있는 공간에서 자신이 원하는 앱을 찾을 수 있어서 아주 좋은 것 같다.
+
+6)http://littlebigdetails.com/post/3251721050/mac-os-x-when-searching-in-the-help-menu-of-an
+-Max OS X : 앱에서 help메뉴를 사용할 때 검색창에 도움을 받고 싶은 내용을 치면 그에 관련된 값이
+ 어느 부분에 속해있는지 그 부분에 파란색 화살표로 표시를 해주어 쉽게 찾게 해준다.
+ 어떤 문서에서 모르는 부분이 있을 때 help를 사용하게 되는데 그 때에는 글로 된 많은 설명들을 일일이 읽어야되서
+ 불편한 감도 있었는데 이 장치는 눈으로 보고 바로 확인 할 수 있게 해주서 좋은 것 같다.
+
+7)http://littlebigdetails.com/post/20170268274/google-images-when-searching-for-some-images
+-Google Images : 구글에서 어떤 이미지를 찾는데 그 이미지가 최근 사건과 약간의 관련이 있다면 그 그림은 작은 라벨을
+통해서 그 이미지의 나이를 표시해 준다.
+ 이 장치가 좋은 점은 만약에 내가 어떤 회사의 로고를 찾는다고 할 때 그 회사의 로고는 여러번 바뀌었을 수도 있다.
+따라서 최근의 로고도 볼 수 있으며 옛날의 로고는 어땠는지 비교할 수 있다.
+
+8)http://littlebigdetails.com/post/11571037439/google-analytics-when-browsing-mobile-devices-in
+-Google Analytics : 새로운 버전의 Google Analytics에서 모바일 장치를 찾을 때 그 각 장치들의 사진들을 볼 수 있다
+그 장치가 어떤 장치인지 쉽게 알기 위해서.. 이 장치는 같은 이름을 가진 모바일 장치들도 있을 것인데 바로 일일이 
+볼 수 있어서 자신이 원하는 장치를 쉽게 클릭할 수 있게 해줘서 좋은 것 같다,.
+
+9)http://littlebigdetails.com/post/14564768064/gmail-when-attempting-to-sign-in-with-an
+-Gmail : 잘못된 비밀번호로 로그인을 하려고 할 때 그 창에서 비밀번호가 얼마 전에 바뀌었는지 알려주는 창이 뜬다.
+ 요즘에 많은 곳에서 해킹을 위험으로 두고 비밀번호를 바꾸라는 알림이 많이 뜨는데 그 때 마다 비밀번호를 바꾸었다면
+헷갈릴 가능성이 크다. 그럴 경우를 대비해서 이렇게 바뀌었다고 알려주는 것은 내가 비밀번호를 확인하기 위해서 나의
+여러정보를 입력하고 인증받아 확인하는 것보다 시간이 단축되고 편리할 것이다.
+
+10)http://littlebigdetails.com/post/11022420335/nike-when-people-like-your-run-after-you-post
+-Nike+ : 페이스북에 자신이 달린 기록을 저장해 놓고 사람들이 '좋아요'를 클릭한다면 자신은 헤드폰을 통해 응원의 소리와
+노래들을 들을 수 있을 것이다. 페이스북을 많은 사람들이 이용하고 자신이 좋은 내용에 대한 많은 '좋아요'를 클릭하게 되는데
+이처럼 응원하는 음향이 들린다면 더욱 기분이 좋고 더욱 힘이 날 것이다. 이는 더 많은 사람들이 페이스북을 이용하게끔
+하는데도 도움이 될 것 같다.
+
