@@ -1,0 +1,54 @@
+﻿1. OpenERP -  The throbber’s text update every few seconds when installing an application so you know it’s not frozen. 
+
+스마트 폰을 사용하게 되면 정보를 얻기 위해 다운로드 등이 실행이 된다. 그럴 때마다 Loading...이라는 문구가 화면에 나오는데 시간이 경과함에 따라 Loading...에서 Still loading...으로 바뀌고 시간이 더 경과되면 Still loading... Please be patient.라는 인내심을 갖고 기다려달라는 사용자를 배려하는 문구가 나오게 된다. 이런 속도가 우선시되는 네트워크 환경에서 사용자를 위한 작은 배려가 돋보인다.
+
+
+
+2. iOS 6 - the night time weather summary shows the correct phase of the moon.
+
+주변에서 많이 사용하는 아이폰에는 날씨와 온도를 표시해주는 프로그램이 있다. 여기에는 저녁에는 달모양이 나오는데 캡쳐 사진을 자세히 보면 달이 하현달 모양이다. 달의 미세한 모양까지 놓치지 않고 나태내고 있는 디테일함이 인상적이다. 
+
+
+
+3. Facebook - The prompt text in the “Update Status” field constantly changes on refresh.
+
+페이스북에는 자신의 상태,기분 등을 남기기도 한다. 그 란에는 투명한 글씨가 있는데, refresh를 위해 How are you feeling, Ahmed?, How's going, Ahmed? What's going on, Ahmed? 등 사용자의 이름과 함께 여러 문장으로 식상함을 탈피한 질문이 사용자로 하게끔 기분을 좋게 만드는 것 같다.
+
+
+
+4. Google Chrome - When dragging the active tab it is always on top of the others, when dragging an inactive tab it moves behind the active one.
+
+구글 크롬을 사용할 때 사용하고 있는 tab을 드래그 하게 되면 사용하고 있지 않은 tab위로 어느정도 겹치게 올 수 있다. 이것은 tab을 많이 사용할때 사용하고 있지 않은 tab들을 보다 정리할 수 있는 차원에서 좋다고 할 수 있겠다.
+
+
+
+5. Mixcloud - The “Follow” button changes to “Follow back” if the user is already following you.
+
+Follow를 신청할 때, 보통 Follow라는 버튼이 생기는데 만약 상대방이 나에게 Follow를 신청했다면 Follow back으로 버튼이 생성된다. 버튼을 조금만 바꾸는 것만으로 상대방에게 주는 정보가 다를 수 있다는 점이 와닿았다.
+
+
+
+6. Pojo - When uploading an image, the picture is shown immediately with an upload progress overlay.
+
+사진을 업로드 할 때, 진행 상황을 업로드 될 사진을 보여주며 사진을 가리는 블럭의 진행 방향과 숫자와 함께 진행 정도를 보여 준다. 보통 업로드 할 때 기다리기만 하지 진행 정도를 파악하기 힘들기 때문에 사진도 볼 수 있고 진행 정도도 바로 눈으로 확인할 수 있는 점이 좋았다.
+
+
+7. LittleIpsum - Graphical representation for selecting words, sentences, or paragraphs of Lorem Ipsum.
+
+스마트 폰으로 논문이나 긴 원서를 읽다가 복사 하고 싶을 때는 긴 글을 드래그로 지정해야하는데 긴 블럭 지정이 어려운 것을 경험해봤을 것이다. 하지만 이 것을 통해 단어, 문장, 문단 별로 선택하고 그 갯수를 선택해서 손쉽게 블럭을 지정할 수 있어서 복사 등이 빠르게 진행 될 수가 있다. 단어, 문장, 문단별로 구분을 지어 놓은 섬세함이 돋보인다.
+
+
+8. YouTube - To celebrate 1 billion views, a tiny dancing Psy was added to the video page for Gangnam Style.
+
+유투브 조회수 1억을 돌파한 강남 스타일이 조회수를 나타내는 부분에 작은 아이콘으로 싸이 이모티콘이 들어간 것을 볼 수 있다. 1억을 돌파하는게 흔한 일이 아니었는지 작은 부분에 이를 기념하는 싸이가 춤을 추고있다.
+
+
+9. Pair - When entering a security code, the form shows hearts instead of dots to mask the digits.
+
+보통 비밀번호를 입력할 때 흔히 * 모양으로 비밀번호를 가리고는 한다. 딱딱한 * 모양 대신 색이 들어 있는 하트를 넣어서 사용자로 하게끔 신선함을 주기 위한 노력이 보인다.
+
+
+10. The Future Perfect Shop - The “Add to cart” button says “It’s perfect”, and changes to “I’ll take it” on hover.
+
+구매자가 물건을 사게 될 때, 마우스를 갖다 놓기 전에는 It's perfect 라는 문구가 뜨게 되고, 마우스를 갖다 놓게 되면 I'll take it 이라는 문구가 떠서 살 것이라는 문구로 바뀌게 된다. 작은 버튼 변화로 구매자의 구매 의사를 사고 싶게 만들 수도 있을 것 같다.
+
