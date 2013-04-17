@@ -1,0 +1,52 @@
+﻿0991019 신해영
+
+pojo: http://littlebigdetails.com/post/42275875484/pojo-when-uploading-an-image-the-picture-is
+ 사진이 업로딩시 사진안에 현제 진행상황을 표시해주는
+기능을 가지는 어플이다.
+업로딩시 시각적인 지루함을 덜어주는 디테일한 어플인거같다.
+
+Tweetbot:tweetbot-when-replying-to-a-tweet-swipe-down-to
+ 트윗 답글시 화면을 위에서 아래로 드레그할경우
+입력한 상대방이 나에게 쓴 글을 볼수가 있다.
+답글시 순간적으로 말을 잊어버렷거나 긴글에 대한 답글시
+유용한 기능인것같다.
+
+siri: http://littlebigdetails.com/post/38792101867/siri-confirms-what-tomorrow-means-when-it-is
+흔히 알고있는 음성인식 기능이다.
+이 사진에서 보이는 것은 이미 날이 바뀐후에 내일이라고 말을할시
+재차 확인 철차를 한다는 것이다.
+음성인식이 매우 부정확하다는 인식이 많은데 이러한 디테일한점도 가지고있다는것이 신기하엿다.
+
+GitHub: http://littlebigdetails.com/post/35910906518/github-hovering-over-relative-timestamps-shows-a
+몇분전에 남긴 글인지에 예를들어 18분전이라고하면 그쪽에 마우스커서를 가져다 놀시 정확한 년 월 시 분이
+나타난다.간단히 몇분전일 경우보단 몇일이 지난 글일경우 확인시 유용할것 같다.
+
+Facebook: http://littlebigdetails.com/post/31859419231/facebook-when-you-have-your-relatives-marked-on
+검색창에 찾는이의 이름을 작성시 친구로 등록되어
+있는 이름이 우선순위로하여 나온다.
+이기능은 지금 매우 유용하게 사용하는 기능이여 적어보았다.
+
+Facebook:http://littlebigdetails.com/post/30240805001/facebook-the-icon-for-marriages-is-automatically
+결혼시 성별그림이 보인다.
+남자와 남자결혼시에도 남자와 남자결혼시에 남자그림두개가
+보여진다. 
+재미있고 흥미로운 그림이여 적어보았다.
+
+Facebook:http://littlebigdetails.com/post/36518506418/facebook-the-update-status-fields-help-text
+상태창의 보조문구가 원래는 How are you? 라고 뜨는 문구가 
+Thanksgiving day에는 what are you thankful for? 라고 뜬다.
+자주사용하는 페이스북에 몰랐던 사실에 써보았다.
+
+Windows Phone 7 :http://littlebigdetails.com/post/29689526595/windows-phone-7-the-messaging-app-icon-changes
+메시지를 보내던 도중 전송이 실패하였을경우 메시지창의 웃는얼굴이 실망한 표정으로 변한다.
+
+IOS: http://littlebigdetails.com/post/25021211540/ios-the-feature-speak-selection-on-settings
+말하기 기능의 스크킹 속도를 조절시 느린쪽에는 거북이 그림이 빠른쪽에는 토끼그림으 그려져있다.
+디테일한 재미있는 설정에 적어보았다.
+
+Notes : http://littlebigdetails.com/post/19953541857/notes-trash-can-jumps-up-and-receives-deleted
+메모를 삭제할시에 단순히 삭제되는것이아니라 아래 휴지통아이콘으로 접혀 들어간다.
+단순히 삭제되는것에서 디테일한 면을 살려 시각적인 신기함을 주는것 같다.
+
+
+
