@@ -1,0 +1,87 @@
+﻿- littlebigdetails.com 
+
+1.
+http://littlebigdetails.com/post/47021998681/chrome-when-downloading-a-file-that-appears
+크롬에서 다운로드 할 때 악성코드가 감지되면 이를 삭제할 것인지 유지할 것인지 묻는다. IE의 ActiveX에도 적용이 되면 매우 좋을 것 같다.
+2.
+http://littlebigdetails.com/post/46760588265/gmail-when-you-send-an-email-that-contains-a
+gmail에서 구글 드라이브 링크가 포함된 이메일을 보낼 때 받는 사람이 이것을 공유하지 못함을 경고해준다. 매우 좋은 기능 같다. 만약 github에 이런 기능이 있다면 UTF-8로 해야된다는 메일을 교수님께서 일일히 보내지 않았어도 될 듯하다.
+3.
+http://littlebigdetails.com/post/46673674975/openerp-the-throbbers-text-update-every-few
+로딩이 오래 지연되면 Loading-> Still Loading 이런식으로 변한다. 오래 로딩 할때 마다 이것이 렉이 걸려 멈춘 것인지 몰라 기다리기가 애매했는데(특히 데이터용량이 포함된 정보를 볼 때는 더더욱) 정말 괜찮은 기능이다.
+4.
+http://littlebigdetails.com/post/46252897445/amazon-2-years-after-purchase-date-you-receive
+아마존에서 구입된 후 2년이 되면 그 물건을 기프트 카드와 교환 할 것이냐고 묻는 메일이 간다.(대표적으로 책) 한번 읽은 책은 다시 읽을 일이 거의 없다. 따라서 다시 판매자가 갖게 된다면 물가도 내려갈 것 같다. 중고나라에 가운데 중개인이 생긴기분?
+5.
+http://littlebigdetails.com/post/44455916556/geeklist-shows-how-long-it-would-take-for-your
+암호를 치면 암호가 뚫리기 까지 얼마나 남았는지 표현해줌
+요즘 암호에 대해 배우면서 얼마나 쉬운건지 느꼇다. 그래서 암호 바꾸기의 필요성을 느꼇는데 이 효과가 사용자들에게 약간이라도 불안감을 준다면 굉장히 좋을 것 같다.
+6.
+http://littlebigdetails.com/post/43227373203/google-when-posting-a-link-to-google-plus-it
+구글플러스에 있는 링크를 포스팅할때 url 대신 그 제목을 표시해준다. 내용 미리보기가 되므로 매우 좋다. 요즘 url로 악성코드를 많이 심는데 그런것들 방지.
+7.
+http://littlebigdetails.com/post/42429819052/os-x-adjust-the-volume-in-1-4-increments-with
+볼륨조절단위를 4배로 늘려줌(더욱더 미세조정가능)
+밤에 잠잘 때 1칸으로 해도 소리가 큰 경우가 있었는데 이 기능이 있으면 좋겠다.
+8.
+http://littlebigdetails.com/post/41946024592/the-verge-the-logo-rotates-90-degrees-on-hover
+로고를 90도 회전시켜준다. 사진이 회전되어 있으면 보는데 매우 불편한데 그 것을 도와줄 수 있는 기능이다. 여러 각도가 되거나 자동으로 회전이 된다면 더욱 좋을 듯.
+9.
+http://littlebigdetails.com/post/41360748777/ios-6-when-turning-the-volume-up-with-headphones
+헤드폰이 연결 됬을 때 볼륨바가 나옴. 노랑색과 빨간색으로 경고 표시도 해주는 거 같은데 무턱대고 이어폰을 연결할 때 소리가 커서 짜증났던적이 한두번이 아니다. 좋은 기능임.
+10.
+http://littlebigdetails.com/post/37789302963/github-when-you-click-to-focus-the-search-bar
+검색창이 평소엔 작지만 클릭했을 때 커지는 기능. 무언가를 안하고 있을 때 그 기능이 최소화 된다는 것을 다른 곳까지 확대시키면 깔끔한 웹페이지를 만들 수 있을 것 같다.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
