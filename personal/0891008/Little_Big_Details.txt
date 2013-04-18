@@ -1,0 +1,102 @@
+1.Eyeem - Shows you in a dropdown what’s enabled for Facebook Timeline sharing
+맘에 드는 것 
+페이스북을 자주 사용하는 데 이 어플을 사용하면 타임라인에서 할 수 있는 기능들을 간단한 형태로 보여준다. 
+페이스 북보다 더 심플한 미니 타임라인 형태다.
+
+인상적인 것
+사진, 친구 찾기, 로그인 등을 한 카테고리로 분류했다. 
+여기저기 흩어져 있는 기능을 하나의 표로 만들어서 접근성을 더 용의하게 만들었다. 
+
+
+2.iOS 6 - the night time weather summary shows the correct phase of the moon.
+
+맘에 드는것
+저녁에 달의 상태로 날씨 상태를 알 수 있다. 
+저녁시간의 날씨정보를 달을 통해 알아본다는 것이 새로웠다.
+
+인상적인 것
+파람 세기나 습도, 구름의 정도를 통해 날씨를 알려주는 일반적인 생각이 아니라 
+달의 형태를 통해 날씨를 알려준다는 발상이 새로웠다.
+
+
+3.Facebook - The prompt text in the “Update Status” field constantly changes on refresh. 
+
+맘에 드는 것 
+update Status 로 나의 지금 상태를 즉각적으로 업데이트 할 수 있다. 
+SNS형식의 간단한 커멘션도 가능하다.
+
+인상적인 것 
+update status를 추가 함으로써 사진이나 비디오를 올리는 것 뿐만 아니라 
+즉시 날릴 수 맨션을 제공해서 실시간 소통이 가능하게 하였다.
+
+ 
+4.Facebook - Offers pirate and upside-down versions of english as language options
+
+맘에 드는 것
+영어의 해적어 버젼을 제공한다. 처음보는 언어 또한 제공하고 있었다.
+
+인상적인 것
+전 세계 많은 사람들을 사용자로 거느린 페이스북 답게 적은 사람들이 쓰는 언어까지도 제공해 주고 있는 모습이 감명 깊었다.
+ 
+
+5.OS X - Adjust the volume in 1/4 increments with shift+alt+volume keys.
+
+맘에 드는 것
+밤에 집에서 동생이 공부하거나 부모님이 주무실 때 tv를 봐본사람이면 진심으로 공감 할 것이다. 
+
+인상적인 것
+볼륨을 더 세밀하게 조절하게 함으로 써 사용자의 편의를 좀 더 고려하였다. 분명 마음 따뜻한 개발자가 개발했을 것이다.
+
+6.Google+ - Guesses where a user might work based on where their friends work.
+
+맘에 드는 것
+나의 친구의 직장을 통해서 내가 일하는 곳을 추측해서 물어볼 수 있는 기능.
+내 직업을 입력할 필요없이 추측을 통해 자동으로 내 직업을 기입할 수 있다.
+
+인상적인 것
+앞으로는 내 직업 뿐만 아니라 내 취미등 많은 것을 빅데이터를 통해 알 수 있을 것이다.
+
+7.Rosetta Stone - Confirmation screen displays the word “Thanks” in the language of the course you have just purchased.
+
+맘에 드는 것
+Rosetta Stone 이라는 큰 쇼핑몰에서 물건을 사면 구매한 곳의 언어로 인사말을 해준다.
+영어로 감사인사가 뜨는 것보다 훨씬 친근하다.
+
+인상적인 것
+이것 또한 사소한 것이지만 사용자가 주문한 곳을 알고 그에 해당하는 인사말을 해준다는 것이 새롭다.
+
+8.Tumblr - Press alt+tab in your dashboard to switch between sub-blogs.
+
+맘에 드는 것 
+사실 윈도우에서도 이 기능을 알게 모르게 많이 쓴다.
+alt + tab 을 이용해서 내가 쓰고 있는 여러 프로그램을 왔다 갔다 할 수 있는 기능말이다.
+이를 blog로 옮겼다.
+블로그에서도 이 블로그 저블로그로 옮겨다닐때 alt+tab을 통해 옮겨다니면 훨씬 번거로움이 없고 빠르다.
+
+인상적인 것
+우리가 컴퓨터로 정보를 찾아 다니면서 블로그를 하나만 참고하는 일은 거의 없다. 
+블로그내에 sub 블로그들을 편리하게 옮겨 다닐 수 있는 편의성을 제공하였다.
+
+9.YouTube - To celebrate 1 billion views, a tiny dancing Psy was added to the video page for Gangnam Style.
+
+맘에 드는 것
+유투브에 싸이가 1억 뷰를 찍자, 작은 싸이 캐리커쳐가 말춤을 추고 있다. 
+플래시 처럼 계속해서 움직이는 캐리커쳐가 이목을 끈다.
+
+인상적인 것
+우선 싸이여서 눈이 간 것도 있지만 참 위트가 있는 개발자다.
+작은 디테일이지만 작은 차이가 재미를 만들어 준다. 또 그 재미가 페이지에 계속해서 머무를 수 있는 힘을 준다.
+
+10. Siri - Confirms what “tomorrow” means, when it is mentioned close to midnight
+
+맘에 드는 것
+Siri 또한 인간 처럼 한밤 중에 tomorrow를 물어보면 내일이 언제 인지 확인하는 맨션이 나온다.
+자칫 헷갈릴 수 있는 물음에 확인 하는 창이 나옴으로써 정확한 날짜를 선택할 수 있다.
+
+인상적인 것
+애매한 물음을 확인해서 정확성을 높이는 디테일이 인상적이다. 또 인간처럼 siri 또한 반응한다는 것이 신기하다.
+
+총평:
+개발자는 작은 디테일 까지도 사용자의 입장이 되어서 생각해 보는 습관이 필요한 것 같다.
+그리고 사용자의 입장이 되어 생각해 보려면 평소에 많은 것을 접하고 그 경험을 통해 불필요한 것, 불편한 것을 먼저 추리는 과정이 필요한 것 같다.
+ 
