@@ -1,0 +1,83 @@
+﻿http://littlebigdetails.com/post/46252897445/amazon-2-years-after-purchase-date-you-receive
+
+1.amazon-아마존에서 책을 산 뒤 2년후에 기프트 카드와 교환을 제안하는 메일을받음.
+
+선정이유: 책을본 뒤 다시보는 책들은 드물다. 전공서적이나 개발서 같은 경우는 계속해서 
+          들여다 보게 되지만 그외 소설이나 다른 장르는 두고두고 보는 경우는 드물어서 
+          이렇게 서로서로 책을 바꿔서 볼수있으면 좋겠다.
+
+
+http://littlebigdetails.com/post/43403133935/sugru-lets-you-look-at-the-most-recent-issue-of
+
+2.sugru-회원가입을 하기전 그사이트의 최근 게시물을 미리 보여줌
+
+선정이유: 어떤 사이트를 가입하려고할때 최근 게시물들을 보면 보통 이사이트의 수준이 어느정도가 되며, 
+          내가 원하는 정보가 얼마나 있을지를 유추해볼 수 있다. 그래서 혹여 가입을 했는데 전혀 다른방향의
+          싸이트였던 것을 후에 알게 되는 일을 방지해줄수 있다.
+
+
+http://littlebigdetails.com/post/43149296069/google-maps-ios-shaking-the-device-allows-the
+
+3.Google Maps ios-구글맵에서 핸드폰을 흔들면 피드백을 할수 있음
+
+선정이유: 구글맵을 보다가 이부분은 영아니다 싶으면 흔들어서 피드백을 넣을수 있는데, 
+          따로 피드백을 할 수있는 게시판이나 전화를 통하지 않고도 편하게 넣을 수 있어서 좋다. 
+          독도쪽 동해바다에서 계속 흔들고 싶다.
+
+http://littlebigdetails.com/post/42582626398/mixcloud-the-follow-button-changes-to-follow
+
+
+4. Mixcloud-이미 팔로잉된 사람은 팔로우 취소창이 팔로우창 대신에 생김
+
+선정이유: 팔로우가 된사람은 친구 라고 뜨는 대신에 그친구를 취소할수 있는 창이 생기면, 
+          인간관계를 정리하는데 훨씬 편하게 할수 있을 거라고 생각한다.간혹 어떤 사이트는 
+          인간관계청산이 어려워 그냥 내버려 두는 경우도 생긴다.
+
+
+
+http://littlebigdetails.com/post/42188419235/ios-6-when-selecting-new-wallpaper-preview
+5. ios 6-화면밝기를 조정할때 미리 화면창을 함께보면서 정도를 조절할수 있음.
+
+선정이유: 화면밝기를 조정할때 그게 게임창인지 아니면 다른 인터넷 창인지 사용할 용도에 따라서 
+          조정하게되면 더 원하는 밝기를 잘 맞출수 있을것이다.
+
+
+http://littlebigdetails.com/post/7085818638/burton-the-eyes-beside-the-search-box-follow#
+6.Burton-서치박스에있는 눈이 마우스를 따라서 시선을 옮김
+
+선정이유: 참신한 아이디어라고 생각한다. 마우스에 따라서 시선을 옮기면 간혹 눈이피곤해 마우스 포인터를
+          잃어버렸을 때 찾을 수도있고, 굳이 이러한 의미를 두지 않더라도 귀엽지 않은가? 
+
+
+http://littlebigdetails.com/post/10276878397/amazon-adding-an-already-added-item-to-your-wish#
+
+7.Amazon- 예전에 넣었던 위시리스트는 맨위로 올려줌
+
+선정이유: 미리 위시리스트에 넣어놓고 나중에 까먹는 경우에도 다시볼수 있어서 좋다. 
+          상술이 뛰어나 보이는 아이디어다.
+
+
+
+http://littlebigdetails.com/post/7765654241/microsoft-office-when-editing-rotated-text#
+
+8.Microsoft Office- 세로로 글자를 쓸때도 위로정렬 오른쪽정렬 아래로정렬이 아이콘도 같이회전함
+
+
+선정이유 : 버튼을 클릭했을 때 좀더 정확한 효과를 미리볼 수 있어서 좋은것 같다. 
+           괜히 이것저것 눌러봐서 효과를 확인해가며 하는 것보다 훨씬 편하다고 생각한다.
+
+
+http://littlebigdetails.com/post/8993301435/mac-app-store-while-downloading-a-new-app-the#
+
+9.Mac App Store-앱이 다운로드가 진행될수록 투명도가 달라짐
+
+선정이유 : 투명도가 달라지니 그전화면을 보다가 다운이 다 진행되면 관심있어서 다운 받았던 앱으로
+           자동전환 되니 버튼 세번을 요약했다고 할 수 있다. 
+
+
+
+http://littlebigdetails.com/post/9122803612/google-url-shortener-after-shortening-a-link
+10. Google URL Shortener - url을 짧게 바꿔줌
+
+선정이유: 복잡한 url대신에 짧은 url을 쓰게되면 사이트를 기억하기도 쉽고 이해하기도 쉬워 
+          좋다고 생각한다. 
