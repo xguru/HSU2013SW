@@ -1,0 +1,43 @@
+/*130513 진혜미 버튼을 통해 액티비티 화면 넘기기*/
+
+package com.example.first_practice;
+
+import android.app.Activity;
+import android.content.Intent;
+import android.os.Bundle;
+import android.view.Menu;
+import android.view.View;
+import android.view.View.OnClickListener;
+import android.widget.Button;
+
+public class MainActivity extends Activity {
+
+  Button mycoupon;
+	Button search;
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.activity_main);
+		mycoupon = (Button)findViewById(R.id.mycoupon);
+		search = (Button)findViewById(R.id.search);
+		mycoupon.setOnClickListener(new OnClickListener(){
+			public void onClick(View v){
+				Intent myl = new Intent(MainActivity.this, coupon_activity.class);
+				startActivity(myl);
+			}
+		});
+	}
+	
+	
+
+	@Override
+	public boolean onCreateOptionsMenu(Menu menu) {
+		// Inflate the menu; this adds items to the action bar if it is present.
+		getMenuInflater().inflate(R.menu.main, menu);
+		return true;
+	}
+
+}
+
+/*무엇이 문제인지 모르겠으나 디버깅은 되지만 my coupon 버튼을 눌러 다른 액티비티로 넘어가고자 할때 자꾸 에러가 생겨 에뮬레이터가 런타임오류를 낸다.
+다른 방법이 있는지 좀더 확인 해보아야 해야겠다.*/
