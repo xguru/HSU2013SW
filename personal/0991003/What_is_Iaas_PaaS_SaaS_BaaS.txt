@@ -1,0 +1,26 @@
+﻿PaaS
+-(Platform as a Service)
+여기서 플랫폼이라는것은 윈도우나 리눅스 같은 운영체제나 특정한 프로그램 언어를 개발하기 위한 바탕이되는 환경또한 플랫폼이라고 할수있다 주로 데이터베이스를 포함한 특정플랫폼을 받아와서 개발하는데 사용된다.
+ex)
+해외:MS 애저 플랫폼,,세일즈포스닷컴의 포스닷컴
+국내:삼성 SDS
+SaaS
+-(Software as a Service)
+SaaS는 어플리케이션같은 소프트웨어를 사용자에게 빌려주는 서비스를 이야기한다.예를들어 스마트폰이나 테블릿같은 기기들은 컴퓨터에서 실행하는 소프트웨어를 가지고 있지 않다 그래서 클라우드 서비를 통해 소프트웨어를 받는것 이다.
+ex)
+해외:구글 (Docs & Spreadsheets),MS 의 윈도우라이브
+국내:컴퓨웨어SaaS 방식 APM ‘APMaaS’,펜타시큐리티-한국데이터통신 웹파이어월
+
+HaaS
+-(Hardware as a Service)
+HaaS는 하드웨어가 필요한경우 제공업체로 부터 하드웨어를 서비스받는것이다. 하드웨어구축이 어려울경우 서비스 받을수 있는것이다.
+ex)
+국내:소프트뱅크텔레콤 화이트 클라우드(White Cloud)
+해외:아마존의 가상서버 임대서비스 아마존ec2
+
+IaaS
+-(infrasructure as a service)
+Iaas 는 특히 기업에서 많이 사용되고는 하는데 서버나 네트워크 스토리지등을 가상환경으로 만들어서 요구에 따라 자원을 사용할수있게 해주는 서비스이다. 위의 3가지의 개념보다 보다 포괄적인 개념이다.
+ex)
+해외:아마존 웹 서비스(AWS), 구글 컴퓨트 엔진(Google Compute Engine), 마이크로소프트 애저(Microsoft Azure), 랙스페이스(Rackspace)
+국내:FlexCloud Servers(호스트웨이),Ucloud cs(KT),TCloud(SKT)
